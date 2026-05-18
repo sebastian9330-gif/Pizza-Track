@@ -5,7 +5,15 @@ ___
 
 Con este proyecto o programa se busca aprender a construir estructuras de datos desde cero, programando una pila manual mediante el uso de nodos. A través de la simulación de este sistema de pedidos para una pizzería, buscamos entender en la práctica cómo funciona la regla de que el último elemento en entrar es el primero en salir, logrando deshacer y rehacer acciones.
 
+##__Soportes__
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
 ___
 
 #__Clase Pizza__
