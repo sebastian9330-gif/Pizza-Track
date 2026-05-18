@@ -7,13 +7,15 @@ Con este proyecto o programa se busca aprender a construir estructuras de datos 
 
 ##__Soportes__
 
-![Registro](registro-1.png)
 
-![Desahcer](deshacer-1-1.png)
+<img width="816" height="248" alt="registro-1" src="https://github.com/user-attachments/assets/381f8ce3-0cff-4fbc-a2f7-f7ec632f59b0" />
 
-![Rehacer](Rehacer-1.png)
+<img width="814" height="202" alt="deshacer-1" src="https://github.com/user-attachments/assets/868be811-04c1-473d-a8f5-2dd07bb51b78" />
 
-![Mostrar](Mostrar-1.png)
+<img width="806" height="202" alt="Rehacer-1" src="https://github.com/user-attachments/assets/4670f549-b46b-410e-8d57-0140eb0844c2" />
+
+<img width="809" height="213" alt="Mostrar-1" src="https://github.com/user-attachments/assets/711dbc1b-dae4-4e22-8bbb-f8dacc8472ff" />
+
 ___
 
 #__Clase Pizza__
