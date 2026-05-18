@@ -1,6 +1,7 @@
-###Proyecto Pizza-Track
+##Proyecto Pizza-Track
 ___
-#Clase Pizza
+#__Clase Pizza__
+
     public class Pizza {
     // Atributos básicos de nuestra pizza
     String nombre;
@@ -20,7 +21,9 @@ ___
     }
 }
 ___
+
 #Clase Nodo
+
 public class Nodo {
     // El nodo es como una "caja" que guarda nuestra pizza
     Pizza pizza;
@@ -37,6 +40,7 @@ public class Nodo {
 ___
 
 #Clase PilaManual
+
 public class PilaManual {
     // El tope es el elemento que está más arriba en nuestra pila
     Nodo tope;
