@@ -1,5 +1,13 @@
 ##Proyecto Pizza-Track
 ___
+
+#__OBJETIVO__
+
+Con este proyecto o programa se busca aprender a construir estructuras de datos desde cero, programando una pila manual mediante el uso de nodos. A través de la simulación de este sistema de pedidos para una pizzería, buscamos entender en la práctica cómo funciona la regla de que el último elemento en entrar es el primero en salir, logrando deshacer y rehacer acciones.
+
+
+___
+
 #__Clase Pizza__
 
     public class Pizza {
