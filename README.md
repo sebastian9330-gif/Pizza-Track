@@ -22,9 +22,9 @@ ___
 }
 ___
 
-#Clase Nodo
+#__Clase Nodo__
 
-public class Nodo {
+    public class Nodo {
     // El nodo es como una "caja" que guarda nuestra pizza
     Pizza pizza;
     // Este es el puntero que nos conecta con el nodo de abajo en la pila
@@ -39,9 +39,9 @@ public class Nodo {
 
 ___
 
-#Clase PilaManual
+#__Clase PilaManual__
 
-public class PilaManual {
+    public class PilaManual {
     // El tope es el elemento que está más arriba en nuestra pila
     Nodo tope;
 
@@ -88,10 +88,11 @@ public class PilaManual {
 
 ___
 
-#Clase GestionPedidos
-import java.util.Scanner;
+#__Clase GestionPedidos__
 
-public class GestionPedidos {
+    import java.util.Scanner;
+
+    public class GestionPedidos {
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
         
