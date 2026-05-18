@@ -8,13 +8,9 @@ Con este proyecto o programa se busca aprender a construir estructuras de datos 
 ##__Soportes__
 
 ![Registro](registro-1.png)
-
-![Mostrar](Mostrar-1.png)
-
-![Deshacer](deshacer-1.png)
-
+![Desahcer](deshacer-1-1.png)
 ![Rehacer](Rehacer-1.png)
-
+![Mostrar](Mostrar-1.png)
 ___
 
 #__Clase Pizza__
